@@ -1,15 +1,15 @@
 {
-  "name": "parcel-75-template",
+  "name": "mypet",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Tigriceo.github.io/parcel-75-template",
+  "homepage": "https://SVoievodin.github.io/mypet",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-75-template/"
+    "build": "parcel build src/*.html --public-url /mypet/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tigriceo/parcel-75-template.git"
+    "url": "git+https://github.com/SVoievodin/mypet.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
